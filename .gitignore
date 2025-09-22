@@ -1,0 +1,35 @@
+# 编译生成的目标文件
+*.o
+*.elf
+*.bin
+
+# 内核目录下的编译产物
+kernel/*.o
+kernel/*.elf
+kernel/*.bin
+
+# 临时文件
+*~
+.*.swp
+.DS_Store
+
+# 可能的日志文件
+*.log
+
+# 工具链生成的中间文件
+*.d
+*.i
+*.s
+
+# 调试相关文件
+.gdb_history
+.gdbinit
+
+# 构建目录（如果使用）
+build/
+out/
+
+# 编辑器配置
+.idea/
+.vscode/
+*.sublime-*
