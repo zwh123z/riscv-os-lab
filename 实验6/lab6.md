@@ -197,7 +197,7 @@ static int validate_addr(uint64 va, int len) {
 
 ### 运行截图
 
-<img src="C:\Users\29690\AppData\Roaming\Typora\typora-user-images\image-20251223175024199.png" alt="image-20251223175024199" style="zoom: 33%;" />
+<img src="./image-20251223175024199.png" alt="image-20251223175024199" style="zoom: 33%;" />
 *(图注：Test 12 显示内核成功拦截了非法指针访问，系统保持稳定)*
 
 ## 五、问题与总结

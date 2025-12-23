@@ -150,11 +150,11 @@ int klog_read(uint64 user_buf, int n) {
 
 ### 运行截图
 
-![image-20251223201317420](C:\Users\29690\AppData\Roaming\Typora\typora-user-images\image-20251223201317420.png)
+![image-20251223201317420](./image-20251223201317420.png)
 
-![image-20251223201607914](C:\Users\29690\AppData\Roaming\Typora\typora-user-images\image-20251223201607914.png)
+![image-20251223201607914](./image-20251223201607914.png)
 
-![image-20251223201628325](C:\Users\29690\AppData\Roaming\Typora\typora-user-images\image-20251223201628325.png)
+![image-20251223201628325](./image-20251223201628325.png)
 
 *(图注：Test 4 展示了缓冲区溢出时的正确行为，Test 6 展示了用户态成功读取到了内核日志流)*
 

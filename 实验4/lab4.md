@@ -177,7 +177,7 @@ void kerneltrap() {
 
 ### 运行截图
 
-![image-20251223162748598](C:\Users\29690\AppData\Roaming\Typora\typora-user-images\image-20251223162748598.png)
+![image-20251223162748598](./image-20251223162748598.png)
 
 ## 五、问题与总结
 

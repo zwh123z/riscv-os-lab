@@ -192,7 +192,7 @@ struct inode* namex(char *path, int nameiparent, char *name) {
 
 ### 运行截图
 
-<img src="C:\Users\29690\AppData\Roaming\Typora\typora-user-images\image-20251223194633593.png" alt="image-20251223194633593" style="zoom:50%;" />
+<img src="./image-20251223194633593.png" alt="image-20251223194633593" style="zoom:50%;" />
 *(图注：Test 3 验证了核心的日志恢复功能，Test 2 证明了锁机制的健壮性)*
 
 ## 五、问题与总结

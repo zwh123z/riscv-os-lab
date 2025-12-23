@@ -172,7 +172,7 @@ Hello OS！
 
 ### **运行截图**
 
-![image-20251223144821161](C:\Users\29690\AppData\Roaming\Typora\typora-user-images\image-20251223144821161.png)
+![image-20251223144821161](./image-20251223144821161.png)
 
 ## 五、问题与总结
 

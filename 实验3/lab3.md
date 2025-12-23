@@ -230,7 +230,7 @@ void kvminit(void) {
 
 ### 运行截图
 
-![image-20251223155654174](C:\Users\29690\AppData\Roaming\Typora\typora-user-images\image-20251223155654174.png)
+![image-20251223155654174](./image-20251223155654174.png)
 
 ## 五、问题与总结
 

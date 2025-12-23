@@ -197,11 +197,11 @@ void sleep(void *chan, struct spinlock *lk) {
 
 ### 运行截图
 
-<img src="C:\Users\29690\AppData\Roaming\Typora\typora-user-images\image-20251223172700725.png" alt="image-20251223172700725" style="zoom: 33%;" />
+<img src="./image-20251223172700725.png" alt="image-20251223172700725" style="zoom: 33%;" />
 
-<img src="C:\Users\29690\AppData\Roaming\Typora\typora-user-images\image-20251223172741324.png" alt="image-20251223172741324" style="zoom: 33%;" />
+<img src="./image-20251223172741324.png" alt="image-20251223172741324" style="zoom: 33%;" />
 
-<img src="C:\Users\29690\AppData\Roaming\Typora\typora-user-images\image-20251223172832921.png" alt="image-20251223172832921" style="zoom: 33%;" />
+<img src="./image-20251223172832921.png" alt="image-20251223172832921" style="zoom: 33%;" />
 
 *图注：Test 9 中生产者和消费者交替运行，证明了同步机制的有效性)*
 

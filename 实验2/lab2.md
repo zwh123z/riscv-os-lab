@@ -152,7 +152,7 @@ void clear_screen() {
 
 ### 运行截图
 
-![image-20251223150410090](C:\Users\29690\AppData\Roaming\Typora\typora-user-images\image-20251223150410090.png)
+![image-20251223150410090](./image-20251223150410090.png)
 
 ## 五、问题与总结
 
